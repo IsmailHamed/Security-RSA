@@ -1,0 +1,8 @@
+D:\SecurityProject\SecurityProject\bin\Debug\Client.exe
+D:\SecurityProject\SecurityProject\bin\Debug\Client.pdb
+D:\SecurityProject\SecurityProject\obj\Debug\Client.MainForm.resources
+D:\SecurityProject\SecurityProject\obj\Debug\Client.Properties.Resources.resources
+D:\SecurityProject\SecurityProject\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\SecurityProject\SecurityProject\obj\Debug\Client.exe
+D:\SecurityProject\SecurityProject\obj\Debug\Client.pdb
+D:\SecurityProject\SecurityProject\obj\Debug\Client.csprojResolveAssemblyReference.cache

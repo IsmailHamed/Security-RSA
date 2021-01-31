@@ -1,0 +1,5 @@
+D:\SecurityProject\Server\bin\Debug\Server.exe
+D:\SecurityProject\Server\bin\Debug\Server.pdb
+D:\SecurityProject\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\SecurityProject\Server\obj\Debug\Server.exe
+D:\SecurityProject\Server\obj\Debug\Server.pdb
